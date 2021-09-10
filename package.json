@@ -1,0 +1,16 @@
+{
+  "name": "retotecnico",
+  "version": "1.0.0",
+  "description": "Reto técnico para Xal Digital",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Luis Andrés García Perdomo",
+  "license": "ISC",
+  "dependencies": {
+    "node-fetch": "^3.0.0"
+  },
+  "type": "module"
+}
